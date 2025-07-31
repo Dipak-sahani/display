@@ -24,6 +24,10 @@ import Chat from "./pages/Chat.jsx"
 import ImageNotice from './pages/ImageNoticeUpload.jsx'
 import Home from "./pages/Home.jsx";
 
+//djdjdjdf
+
+
+
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<Layout />}>
